@@ -8,11 +8,10 @@ In this project uses **Natural Language Processing (NLP)** techniques and a **Lo
 
 ## 🚀 Live Demo
 
-Want to try the model yourself?
+
 
 👉 **[Test Yourself]https://assignment-11ml-based-sentiment-analysis-io9qg22mvlwtmvojtiyth.streamlit.app/**
 
-Click the link above and enter any movie review to see the sentiment prediction instantly.
 
 ---
 
